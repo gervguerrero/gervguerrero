@@ -7,13 +7,18 @@
   - [Azure-Cloud-Honeynet-SOC-Lab-Incident-Response-Investigation](https://github.com/gervguerrero/Azure-Cloud-Honeynet-SOC-Lab-Incident-Response-Investigation)
   - [Azure-Cloud-Honeynet-SOC-Lab-Firewall-Hardening](https://github.com/gervguerrero/Azure-Cloud-Honeynet-SOC-Lab-Firewall-Hardening)
 
+- <b>☁️ Physical Home Lab Projects</b>
+  - [Home SOC Lab/Mock Network Overview PLACEHOLDER](https://github.com/gervguerrero/Azure-Cloud-SOC-Lab)
+  - [Home SOC Lab/Mock Network LLMNR/NBT-NS Poisoning PLACEHOLDER](https://github.com/gervguerrero/Azure-Cloud-SOC-Lab)
+    
 <h2>⚙️ Engineering/Security Engineering Projects:</h2>
 
 - <b>☁️ Cloud/Cloud Security Projects</b>
   - [Building a Live SOC Lab / Honeynet in Microsoft Azure](https://github.com/gervguerrero/Azure-Cloud-SOC-Lab)
   - [TECHNICAL BUILDING SOC HONEYNET PLACEHOLDER](https://github.com/gervguerrero/Azure-Cloud-SOC-Lab)
   - [Azure-Cloud-Honeynet-SOC-Lab-Firewall-Hardening](https://github.com/gervguerrero/Azure-Cloud-Honeynet-SOC-Lab-Firewall-Hardening) 
-
+  - [Home SOC Lab/Mock Network Overview PLACEHOLDER](https://github.com/gervguerrero/Azure-Cloud-SOC-Lab)
+    
 <h2>📺 Popular YouTube Videos PLACEHOLDER </h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) PLACEHOLDER
