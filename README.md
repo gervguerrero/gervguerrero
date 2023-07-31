@@ -22,7 +22,7 @@
 - <b>🏠 Physical Home Lab Projects</b>
   - [ESXi-Home-SOC-Lab-Network-Overview](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
 
-<h2>🔻👨‍💻 Ethical Hacking Projects 👨‍💻🔻</h2>
+<h2>🟥👨‍💻 Ethical Hacking Projects 👨‍💻🟥</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) PLACEHOLDER
 
