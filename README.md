@@ -7,8 +7,8 @@
   - [Azure-Cloud-Honeynet-SOC-Lab-Incident-Response-Investigation](https://github.com/gervguerrero/Azure-Cloud-Honeynet-SOC-Lab-Incident-Response-Investigation)
   - [Azure-Cloud-Honeynet-SOC-Lab-Firewall-Hardening](https://github.com/gervguerrero/Azure-Cloud-Honeynet-SOC-Lab-Firewall-Hardening)
 
-- <b>☁️ Physical Home Lab Projects</b>
-  - [Home SOC Lab/Mock Network Overview PLACEHOLDER](https://github.com/gervguerrero/Azure-Cloud-SOC-Lab)
+- <b>🏠 Physical Home Lab Projects</b>
+  - [ESXi-Home-SOC-Lab-Network-Overview](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
   - [Home SOC Lab/Mock Network LLMNR/NBT-NS Poisoning PLACEHOLDER](https://github.com/gervguerrero/Azure-Cloud-SOC-Lab)
     
 <h2>⚙️ Engineering/Security Engineering Projects:</h2>
@@ -18,7 +18,10 @@
   - [TECHNICAL BUILDING SOC HONEYNET PLACEHOLDER](https://github.com/gervguerrero/Azure-Cloud-SOC-Lab)
   - [Azure-Cloud-Honeynet-SOC-Lab-Firewall-Hardening](https://github.com/gervguerrero/Azure-Cloud-Honeynet-SOC-Lab-Firewall-Hardening) 
   - [Home SOC Lab/Mock Network Overview PLACEHOLDER](https://github.com/gervguerrero/Azure-Cloud-SOC-Lab)
-    
+
+- <b>🏠 Physical Home Lab Projects</b>
+  - [ESXi-Home-SOC-Lab-Network-Overview](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
+
 <h2>📺 Popular YouTube Videos PLACEHOLDER </h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) PLACEHOLDER
