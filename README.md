@@ -1,6 +1,6 @@
 <h1> Gervin Guerrero: Defensive Cybersecurity Analyst </h1>
 
-<h2>🔷👨‍💻 Cybersecurity Projects 👨‍💻🔷</h2>
+<h2>🔵👨‍💻 Cybersecurity Projects 👨‍💻🔵</h2>
 
 - <b>☁️ Cloud/Cloud Security Projects</b>
   - [Building a Live SOC Lab / Honeynet in Microsoft Azure](https://github.com/gervguerrero/Azure-Cloud-SOC-Lab)
