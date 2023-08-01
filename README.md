@@ -1,6 +1,6 @@
 <h1> Gervin Guerrero: Defensive Cybersecurity Analyst </h1>
 
-<h2>🔵👨‍💻 Cybersecurity Projects 👨‍💻🔵</h2>
+<h2>🔵👨‍💻 Blue Team/Cybersecurity Projects 👨‍💻🔵</h2>
 
 - <b>☁️ Cloud/Cloud Security Projects</b>
   - [Building a Live SOC Lab / Honeynet in Microsoft Azure](https://github.com/gervguerrero/Azure-Cloud-SOC-Lab)
@@ -22,7 +22,7 @@
 - <b>🏠 Physical Home Lab Engineering Projects</b>
   - [ESXi-Home-SOC-Lab-Network-Overview](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
 
-<h2>🟥👨‍💻 Ethical Hacking Projects 👨‍💻🟥</h2>
+<h2>🟥👨‍💻 Red Team/Ethical Hacking Projects 👨‍💻🟥</h2>
 
 - <b>🏠 Physical Home Lab Ethical Hacking Projects</b>
 
