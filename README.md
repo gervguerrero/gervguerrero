@@ -25,9 +25,14 @@
 <h2>🟥👨‍💻 Ethical Hacking Projects 👨‍💻🟥</h2>
 
 - <b>🏠 Physical Home Lab Ethical Hacking Projects</b>
+
   - [LLMNR-NBT-NS-Poisoning-ATTACK](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-ATTACK)
 
+<h2>📁 Administration Projects 📁</h2>
 
+- <b>🏠 Physical Home Lab Administration Projects</b>
+
+  - [Active Directory GPO PLACEHOLDER](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-ATTACK)
 
 <h2> 🤳 Connect with me:</h2>
 
