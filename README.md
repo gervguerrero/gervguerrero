@@ -10,6 +10,9 @@
 - <b>🏠 Physical Home Lab Security Projects </b>
   - [ESXi-Home-SOC-Lab-Network-Overview](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
   - [LLMNR-NBT-NS-Poisoning-DETECTION](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-DETECTION)
+
+- <b>📋 Professional Work Engineering Projects</b>
+  - [Data Collection Platform PLACEHOLDER](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
     
 <h2>⚙️ Engineering/Security Engineering Projects ⚙️</h2>
 
@@ -21,6 +24,9 @@
 
 - <b>🏠 Physical Home Lab Engineering Projects</b>
   - [ESXi-Home-SOC-Lab-Network-Overview](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
+
+- <b>📋 Professional Work Engineering Projects</b>
+  - [Data Collection Platform PLACEHOLDER](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
 
 <h2>🟥👨‍💻 Red Team/Ethical Hacking Projects 👨‍💻🟥</h2>
 
