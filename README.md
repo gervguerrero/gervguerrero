@@ -12,7 +12,7 @@
   - [LLMNR-NBT-NS-Poisoning-DETECTION](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-DETECTION)
 
 - <b>📋 Professional Work Engineering Projects</b>
-  - [Data Collection Platform PLACEHOLDER](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
+  - [Passive Network Traffic Collection Platform PLACEHOLDER](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
     
 <h2>⚙️ Engineering/Security Engineering Projects ⚙️</h2>
 
@@ -26,7 +26,7 @@
   - [ESXi-Home-SOC-Lab-Network-Overview](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
 
 - <b>📋 Professional Work Engineering Projects</b>
-  - [Data Collection Platform PLACEHOLDER](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
+  - [Passive Network Traffic Collection Platform PLACEHOLDER](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
 
 <h2>🟥 Red Team/Ethical Hacking Projects 🟥</h2>
 
