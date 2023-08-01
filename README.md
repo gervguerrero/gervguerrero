@@ -9,7 +9,7 @@
 
 - <b>🏠 Physical Home Lab Security Projects </b>
   - [ESXi-Home-SOC-Lab-Network-Overview](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
-  - [Home SOC Lab/Mock Network LLMNR/NBT-NS Poisoning PLACEHOLDER](https://github.com/gervguerrero/Azure-Cloud-SOC-Lab)
+  - [LLMNR-NBT-NS-Poisoning-DETECTION](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-DETECTION)
     
 <h2>⚙️ Engineering/Security Engineering Projects ⚙️</h2>
 
