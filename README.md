@@ -13,21 +13,23 @@
 
 - <b>📋 Professional Work Engineering Projects</b>
   - [ESXi-Security-Onion-Passive-Collection-Platform](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
+  - [ESXi-RockNSM-Passive-Collection-Platform-Single-Node PLACEHOLDER](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
+  - [ESXi-RockNSM-Passive-Collection-Platform-Multi-Node PLACEHOLDER](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
     
 <h2>⚙️ Engineering/Security Engineering Projects ⚙️</h2>
 
 - <b>☁️ Cloud Engineering/Security Projects</b>
   - [Building a Live SOC Lab / Honeynet in Microsoft Azure](https://github.com/gervguerrero/Azure-Cloud-SOC-Lab)
-  - [TECHNICAL BUILDING SOC HONEYNET PLACEHOLDER](https://github.com/gervguerrero/Azure-Cloud-SOC-Lab)
   - [Azure-Cloud-Honeynet-SOC-Lab-Firewall-Hardening](https://github.com/gervguerrero/Azure-Cloud-Honeynet-SOC-Lab-Firewall-Hardening) 
-  - [Home SOC Lab/Mock Network Overview PLACEHOLDER](https://github.com/gervguerrero/Azure-Cloud-SOC-Lab)
 
 - <b>🏠 Physical Home Lab Engineering Projects</b>
   - [ESXi-Home-SOC-Lab-Network-Overview](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
 
 - <b>📋 Professional Work Engineering Projects</b>
   - [ESXi-Security-Onion-Passive-Collection-Platform](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
-
+  - [ESXi-RockNSM-Passive-Collection-Platform-Single-Node PLACEHOLDER](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
+  - [ESXi-RockNSM-Passive-Collection-Platform-Multi-Node PLACEHOLDER](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
+    
 <h2>🟥 Red Team/Ethical Hacking Projects 🟥</h2>
 
 - <b>🏠 Physical Home Lab Ethical Hacking Projects</b>
