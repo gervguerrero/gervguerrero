@@ -13,8 +13,8 @@
 
 - <b>📋 Professional Work Engineering Projects</b>
   - [ESXi-Security-Onion-Passive-Collection-Platform](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
-  - [ESXi-RockNSM-Passive-Collection-Platform-Single-Node PLACEHOLDER](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
-  - [ESXi-RockNSM-Passive-Collection-Platform-Multi-Node PLACEHOLDER](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
+  - [ESXi-RockNSM-Passive-Collection-Platform-Single-Node](https://github.com/gervguerrero/ESXi-RockNSM-Passive-Collection-Platform-Single-Node)
+  - [ESXi-RockNSM-Passive-Collection-Platform-Multi-Node PLACEHOLDER](https://github.com/gervguerrero/ESXi-RockNSM-Passive-Collection-Platform-Single-Node)
     
 <h2>⚙️ Engineering/Security Engineering Projects ⚙️</h2>
 
@@ -27,8 +27,8 @@
 
 - <b>📋 Professional Work Engineering Projects</b>
   - [ESXi-Security-Onion-Passive-Collection-Platform](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
-  - [ESXi-RockNSM-Passive-Collection-Platform-Single-Node PLACEHOLDER](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
-  - [ESXi-RockNSM-Passive-Collection-Platform-Multi-Node PLACEHOLDER](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
+  - [ESXi-RockNSM-Passive-Collection-Platform-Single-Node](https://github.com/gervguerrero/ESXi-RockNSM-Passive-Collection-Platform-Single-Node)
+  - [ESXi-RockNSM-Passive-Collection-Platform-Multi-Node PLACEHOLDER](https://github.com/gervguerrero/ESXi-RockNSM-Passive-Collection-Platform-Single-Node)
     
 <h2>🟥 Red Team/Ethical Hacking Projects 🟥</h2>
 
