@@ -1,4 +1,8 @@
-<h1> Gervin Guerrero: Defensive Cybersecurity Analyst </h1>
+<h1>Gervin Guerrero <br/><a href="https://www.linkedin.com/in/gervin-g-407884227/">Cybersecurity Professional</a></h1>
+
+## Hi Everyone! I'm a Cybersecurity Professional and US Navy Veteran. This page is dedicated for showing some of my projects I've done while learning about the wide world of Cyber!
+
+# Projects
 
 <h2>🔵 Blue Team/Cybersecurity Projects 🔵</h2>
 
