@@ -28,6 +28,7 @@
 
 - <b>🏠 Physical Home Lab Engineering Projects</b>
   - [ESXi-Home-SOC-Lab-Network-Overview](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
+  - [ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting)
 
 - <b>📋 Professional Work Engineering Projects</b>
   - [ESXi-Security-Onion-Passive-Collection-Platform](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
@@ -45,6 +46,7 @@
 - <b>🏠 Physical Home Lab Administration Projects</b>
 
   - [Active Directory GPO PLACEHOLDER](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-ATTACK)
+  - [ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting)
 
 <h2> 🤳 Connect with me:</h2>
 
