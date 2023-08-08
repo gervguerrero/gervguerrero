@@ -16,7 +16,7 @@
   - [LLMNR-NBT-NS-Poisoning-DETECTION](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-DETECTION)
 
 - <b>📋 Professional Work Engineering Projects</b>
-  - [ESXi-Security-Onion-Passive-Collection-Platform](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
+  - [ESXi-Security-Onion-Cluster-Passive-Collection-Platform](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
   - [ESXi-RockNSM-Passive-Collection-Platform-Single-Node](https://github.com/gervguerrero/ESXi-RockNSM-Passive-Collection-Platform-Single-Node)
   - [ESXi-RockNSM-Passive-Collection-Platform-Multi-Node PLACEHOLDER](https://github.com/gervguerrero/ESXi-RockNSM-Passive-Collection-Platform-Single-Node)
     
@@ -31,7 +31,7 @@
   - [ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting)
 
 - <b>📋 Professional Work Engineering Projects</b>
-  - [ESXi-Security-Onion-Passive-Collection-Platform](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
+  - [ESXi-Security-Onion-Cluster-Passive-Collection-Platform](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
   - [ESXi-RockNSM-Passive-Collection-Platform-Single-Node](https://github.com/gervguerrero/ESXi-RockNSM-Passive-Collection-Platform-Single-Node)
   - [ESXi-RockNSM-Passive-Collection-Platform-Multi-Node PLACEHOLDER](https://github.com/gervguerrero/ESXi-RockNSM-Passive-Collection-Platform-Single-Node)
     
