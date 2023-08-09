@@ -29,6 +29,7 @@
 - <b>🏠 Physical Home Lab Engineering Projects</b>
   - [ESXi-Home-SOC-Lab-Network-Overview](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
   - [ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting)
+  - [Basic-Drive-Reformatting](https://github.com/gervguerrero/Basic-Drive-Reformatting)
 
 - <b>📋 Professional Work Engineering Projects</b>
   - [ESXi-Security-Onion-Cluster-Passive-Collection-Platform](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
@@ -47,7 +48,8 @@
 
   - [Active Directory GPO PLACEHOLDER](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-ATTACK)
   - [ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting)
-
+  - [Basic-Drive-Reformatting](https://github.com/gervguerrero/Basic-Drive-Reformatting)
+    
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
