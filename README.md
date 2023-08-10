@@ -14,7 +14,8 @@
 - <b>🏠 Physical Home Lab Security Projects </b>
   - [ESXi-Home-SOC-Lab-Network-Overview](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
   - [LLMNR-NBT-NS-Poisoning-DETECTION](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-DETECTION)
-
+  - [Greenbone-OpenVAS-Installation-on-Kali-Linux](https://github.com/gervguerrero/Greenbone-OpenVAS-Installation-on-Kali-Linux)
+    
 - <b>📋 Professional Work Engineering Projects</b>
   - [ESXi-Security-Onion-Cluster-Passive-Collection-Platform](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
   - [ESXi-RockNSM-Passive-Collection-Platform-Single-Node](https://github.com/gervguerrero/ESXi-RockNSM-Passive-Collection-Platform-Single-Node)
@@ -30,6 +31,7 @@
   - [ESXi-Home-SOC-Lab-Network-Overview](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
   - [ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting)
   - [Basic-Drive-Reformatting](https://github.com/gervguerrero/Basic-Drive-Reformatting)
+  - [Greenbone-OpenVAS-Installation-on-Kali-Linux](https://github.com/gervguerrero/Greenbone-OpenVAS-Installation-on-Kali-Linux)
 
 - <b>📋 Professional Work Engineering Projects</b>
   - [ESXi-Security-Onion-Cluster-Passive-Collection-Platform](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
@@ -41,6 +43,7 @@
 - <b>🏠 Physical Home Lab Ethical Hacking Projects</b>
 
   - [LLMNR-NBT-NS-Poisoning-ATTACK](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-ATTACK)
+  - [Greenbone-OpenVAS-Installation-on-Kali-Linux](https://github.com/gervguerrero/Greenbone-OpenVAS-Installation-on-Kali-Linux)
 
 <h2>📁 Administration Projects 📁</h2>
 
@@ -49,6 +52,7 @@
   - [Active Directory GPO PLACEHOLDER](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-ATTACK)
   - [ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting)
   - [Basic-Drive-Reformatting](https://github.com/gervguerrero/Basic-Drive-Reformatting)
+  - [Greenbone-OpenVAS-Installation-on-Kali-Linux](https://github.com/gervguerrero/Greenbone-OpenVAS-Installation-on-Kali-Linux)
     
 <h2> 🤳 Connect with me:</h2>
 
