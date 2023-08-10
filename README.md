@@ -15,6 +15,7 @@
   - [ESXi-Home-SOC-Lab-Network-Overview](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview)
   - [LLMNR-NBT-NS-Poisoning-DETECTION](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-DETECTION)
   - [Greenbone-OpenVAS-Installation-on-Kali-Linux](https://github.com/gervguerrero/Greenbone-OpenVAS-Installation-on-Kali-Linux)
+  - [Ubuntu-MySQL-Database-Creation-Basic](https://github.com/gervguerrero/Ubuntu-MySQL-Database-Creation-Basic)
     
 - <b>📋 Professional Work Engineering Projects</b>
   - [ESXi-Security-Onion-Cluster-Passive-Collection-Platform](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
@@ -32,6 +33,7 @@
   - [ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting)
   - [Basic-Drive-Reformatting](https://github.com/gervguerrero/Basic-Drive-Reformatting)
   - [Greenbone-OpenVAS-Installation-on-Kali-Linux](https://github.com/gervguerrero/Greenbone-OpenVAS-Installation-on-Kali-Linux)
+  - [Ubuntu-MySQL-Database-Creation-Basic](https://github.com/gervguerrero/Ubuntu-MySQL-Database-Creation-Basic)
 
 - <b>📋 Professional Work Engineering Projects</b>
   - [ESXi-Security-Onion-Cluster-Passive-Collection-Platform](https://github.com/gervguerrero/ESXi-Security-Onion-Passive-Collection-Platform)
@@ -53,6 +55,7 @@
   - [ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Basic-Internet-Troubleshooting)
   - [Basic-Drive-Reformatting](https://github.com/gervguerrero/Basic-Drive-Reformatting)
   - [Greenbone-OpenVAS-Installation-on-Kali-Linux](https://github.com/gervguerrero/Greenbone-OpenVAS-Installation-on-Kali-Linux)
+  - [Ubuntu-MySQL-Database-Creation-Basic](https://github.com/gervguerrero/Ubuntu-MySQL-Database-Creation-Basic)
     
 <h2> 🤳 Connect with me:</h2>
 
