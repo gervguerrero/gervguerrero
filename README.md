@@ -47,6 +47,11 @@
   - [LLMNR-NBT-NS-Poisoning-ATTACK](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-ATTACK)
   - [Greenbone-OpenVAS-Installation-on-Kali-Linux](https://github.com/gervguerrero/Greenbone-OpenVAS-Installation-on-Kali-Linux)
 
+ - <b>👨‍💻 Recent Red Team Trainings</b>
+
+   - [Network-Sniffing-Basics-Course-Cybrary](https://github.com/gervguerrero/Network-Sniffing-Basics-Course-Cybrary)
+
+    
 <h2>📁 Administration Projects 📁</h2>
 
 - <b>🏠 Physical Home Lab Administration Projects</b>
